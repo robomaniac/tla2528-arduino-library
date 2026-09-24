@@ -401,9 +401,8 @@ Thanks to Gemini and Claude for contributing to this README.
 
 ## 📮 Support
 
-- 📧 Report issues on [GitHub Issues](https://github.com/robomaniac/TLA2528-Arduino/issues)
-- 💬 Join discussions on [GitHub Discussions](https://github.com/robomaniac/TLA2528-Arduino/discussions)
-- 📖 Read the [datasheet](https://github.com/robomaniac/TLA2528_Arduino_Library/tree/main/documents)
+- 📧 Report issues on [GitHub Issues](https://github.com/robomaniac/tla2528-arduino-library/issues)
+- 📖 Read the [datasheet](documents/tla2528.pdf)
 
 ---
 
